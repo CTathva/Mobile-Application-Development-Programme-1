@@ -1,6 +1,6 @@
 # MOBILE APPLICATION DEVELOPEMENT 
 
 # Programme 1 (PartA-1)
-<p>Create ‹in application to design a V i siting Card. The Visiting c‹ird should havea coirp‹inylogoiitthe
-top righl corner. The coirpiiny mime should be displayed in Capitiil letters, iiligned to the center. lntormation like the mime c›t the employee, job title, phc›ne number, address, email, tax and the website address isto be di splayed. Insert a horizontal line between the job title ‹ind the phone number.
+<p>Create an application to design a Visiting Card. The Visiting card should have a company logo at the
+top right corner. The company name should be displayed in Capital letters, aligned to the center. information like the name of the employee, job title, phone number, address, email, fax and the website address is to be displayed. Insert a horizontal line between the job title and the phone number.
 </p>
